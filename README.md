@@ -2,14 +2,14 @@
 
 > An AI-powered web app to ask questions from documents and summarize articles — built with Flask, Groq API, and LLaMA 3.
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Online-success?style=flat-square&logo=render)](https://pdf-qa-bot-with-article-summarization.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/harshupadhyay14/PDF-QA-Bot-With-Article-Summarization)
 ![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat-square&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-3.x-black?style=flat-square&logo=flask)
 ![Groq](https://img.shields.io/badge/Groq-LLaMA%203-orange?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
-![alt text](<Screenshot 2026-03-31 110333.png>)
-![alt text](<Screenshot 2026-03-31 110357.png>)
-![alt text](<Screenshot 2026-03-31 110612.png>)
+🌐 **Live App:** [pdf-qa-bot-with-article-summarization.onrender.com](https://pdf-qa-bot-with-article-summarization.onrender.com)
 
 ---
 
@@ -27,7 +27,9 @@
 
 ## 🖼️ Demo
 
-![DocMind Screenshot](https://raw.githubusercontent.com/harshupadhyay14/PDF-QA-Bot-With-Article-Summarization/main/static/demo.png)
+![DocMind Screenshot](https://raw.githubusercontent.com/harshupadhyay14/PDF-QA-Bot-With-Article-Summarization/main/Screenshot%202026-03-31%20110333.png)
+
+![DocMind Screenshot 2](https://raw.githubusercontent.com/harshupadhyay14/PDF-QA-Bot-With-Article-Summarization/main/Screenshot%202026-03-31%20110357.png)
 
 ---
 
